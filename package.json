@@ -1,0 +1,19 @@
+{
+  "name": "museu-afro-digital",
+  "version": "1.0.0",
+  "description": "Trabalho acadêmico com uso de Bootstrap com temática \"Museu Afro-Digital\"",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bootstrap",
+    "afro",
+    "museu"
+  ],
+  "author": "Regivaldo Silva <regivaldorfs@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.8"
+  }
+}
